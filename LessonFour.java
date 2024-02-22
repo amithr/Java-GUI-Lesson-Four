@@ -11,7 +11,7 @@ package com.mycompany.lessonfour;
 public class LessonFour {
 
     public static void main(String[] args) {
-        DataFormTable frame = new DataFormTable();
+        DataFormTableUpgraded frame = new DataFormTableUpgraded();
         frame.setVisible(true);
     }
 }
